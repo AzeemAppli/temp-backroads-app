@@ -4,7 +4,7 @@ const Hero = () => {
             <div className="hero-banner">
                 <h1>continue exploring</h1>
                 <p>
-                    Hiking and Exploring the World.
+                    Hiking and exploring the diversity of Switzerland.
                 </p>
                 <a href="#tours" className="btn hero-btn">explore tours</a>
             </div>
